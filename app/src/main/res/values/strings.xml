@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="load_error">Ошибка при загрузке курсов</string>
+    <string name="to">в</string>
+    <string name="convert">Перевести</string>
+</resources>
